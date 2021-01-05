@@ -1,5 +1,5 @@
 # binarybottrading
 
-Basic Repo for the binarybottrading.eu site
+Basic Repo for the binarybottrading.com site
 
-### All my scripts have been moved to my own platforms freely available through https://binarybottrading.eu
+### All my scripts have been moved to my own platforms freely available through https://binarybottrading.com
